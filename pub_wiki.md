@@ -620,7 +620,7 @@ Embedding”, *The Journal of Physical Chemistry Letters* **14** (3), pp.
 
 107\) P. Golub, A. Antalik, P. Beran, J. Brabec, “Mutual information
 prediction for strongly correlated systems”, *Chemical Physics Letters*
-**813**, 140297 (2023); [DOI:
+**813**, pp. 140297 (2023); [DOI:
 10.1016/j.cplett.2023.140297](http://dx.doi.org/10.1016/j.cplett.2023.140297)
 
 106\) K. M. Herman , E. Aprà and S. S. Xantheas, “A critical comparison
