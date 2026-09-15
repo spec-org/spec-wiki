@@ -1,6 +1,7 @@
 name: spec-wiki md to html conversion
 on:
   push:
+  pull_request:
   release:
   schedule:
     - cron: '0 0 * * *'
@@ -18,7 +19,7 @@ jobs:
 #      pull-requests: write
     steps:
       - name: Checkout spec-wiki
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -31,14 +32,19 @@ jobs:
           pandoc -t html -f gfm pub_wiki.md -o pub_wiki.html
           cat pub_wiki.html
       - name: Commit files
+        if: ${{ github.event_name != 'pull_request' }}
         run: |
+          set -ex
+          git symbolic-ref -q HEAD
           #git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           #git config --local user.name "github-actions[bot]"
+          TZ='America/Los_Angeles'; export TZ
           git config --global user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
           git config --local user.name $GITHUB_REPOSITORY_OWNER
           git add  pub_wiki.html ||true
-          git commit  -m "publication changes" pub_wiki.html
+          git commit  -m "publication changes" pub_wiki.html ||true
       - name: Push changes
+        if: ${{ github.event_name != 'pull_request' }}
         uses: ad-m/github-push-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
