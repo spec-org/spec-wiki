@@ -1,48 +1,52 @@
 ## PHASE 2: October 1<sup>st</sup> 2021 - September 30<sup>th</sup> 2026
 
-206\) K. Kapás, D. Sulz, C. Verhoeven, M. A. Werner, Ö. Legeza, C.
+207\) K. Kapás, D. Sulz, C. Verhoeven, M. A. Werner, Ö. Legeza, C.
 Lubich, “Diversifying time evolution of matrix product states using
 BUGs”, *arXiv preprint* (2026);
 [arXiv:2609.12848](https://arxiv.org/abs/2609.12848)
 
-205\) M. A. Werner, G. Friesecke, A. Menczer, K. Kapás, Ö. Legeza,
+206\) M. A. Werner, G. Friesecke, A. Menczer, K. Kapás, Ö. Legeza,
 “Block entropy area based non-local fermionic mode optimization with
 gradient disentanglers”, *arXiv preprint* (2026);
 [arXiv:2609.11811](https://arxiv.org/abs/2609.11811)
 
-204\) Ö. Legeza, A. Menczer, M. A. Werner, S. S. Xantheas, F. Neese, M.
+205\) Ö. Legeza, A. Menczer, M. A. Werner, S. S. Xantheas, F. Neese, M.
 Ganahl, C. Brower, S. Rodríguez Bernabeu, J. Hammond, J. Gunnels,
 “Hunting for quantum advantage in electronic structure calculations is a
 highly non-trivial task”, *arXiv preprint* (2026);
 [arXiv:2603.28648](https://arxiv.org/abs/2603.28648)
 
-203\) B. X. Shi, K. M. Herman, F. Della Pia, V. Kapil, A. Zen, P. R.
+204\) B. X. Shi, K. M. Herman, F. Della Pia, V. Kapil, A. Zen, P. R.
 Nagy, S. Xantheas, A. Michaelides, “Efficient first-principles modeling
 of complex molecular crystals at sub-chemical accuracy”, *arXiv
 preprint* (2026); [arXiv:2603.02180](https://arxiv.org/abs/2603.02180)
 
-202\) Z. Udvarnoki, G. Fáth, M. Werner, Ö. Legeza, “Classical fractional
+203\) Z. Udvarnoki, G. Fáth, M. Werner, Ö. Legeza, “Classical fractional
 time series from quantum XXZ spin chains”, *arXiv preprint* (2025);
 [arXiv:2508.20974](https://arxiv.org/abs/2508.20974)
 
-201\) J. Cobos, J. Fraxanet, C. Benito, F. di Marcantonio, P. Rivero, K.
+202\) J. Cobos, J. Fraxanet, C. Benito, F. di Marcantonio, P. Rivero, K.
 Kapás, M. A. Werner, Ö. Legeza, A. Bermudez, E. Rico, “Real-Time
 Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a
 Superconducting Quantum Simulator”, *arXiv preprint* (2025);
 [arXiv:2507.08088](https://arxiv.org/abs/2507.08088)
 
-200\) A. Menczer, Ö. Legeza, “Cost optimized ab initio tensor network
+201\) A. Menczer, Ö. Legeza, “Cost optimized ab initio tensor network
 state methods: industrial perspectives”, *arXiv preprint* (2024);
 [arXiv:2412.04676](https://arxiv.org/abs/2412.04676)
 
-199\) G. Friesecke, M. A. Werner, K. Kapas, A. Menczer, Ö. Legeza,
+200\) G. Friesecke, M. A. Werner, K. Kapas, A. Menczer, Ö. Legeza,
 “Global fermionic mode optimization via swap gates”, *arXiv preprint*
 (2024); [arXiv:2406.03449](https://arxiv.org/abs/2406.03449)
 
-198\) A. Menczer, Ö. Legeza, “Boosting the effective performance of
+199\) A. Menczer, Ö. Legeza, “Boosting the effective performance of
 massively parallel tensor network state algorithms on hybrid CPU-GPU
 based architectures via non-Abelian symmetries”, *arXiv preprint*
 (2023); [arXiv:2309.16724](https://arxiv.org/abs/2309.16724)
+
+198\) Long H. Nguyen and Sotiris S. Xantheas, “Many-Body Expansion of the MP2 Correlation Contribution to the Binding Energies of Water Clusters: A Localized Excitation Analysis ”, *Journal of Chemical Theory and Computation*
+**22**, (2026);
+[DOI:10.1021/acs.jctc.6c01287](https://dx.doi.org/10.1021/acs.jctc.6c01287)
 
 197\) M. Wang, M. Wen, P. Pokhilko, C. N. Yeh, M. A. Morales, D. Zgid,
 “Self-consistent vertex corrected *GW* with static and dynamic screening
