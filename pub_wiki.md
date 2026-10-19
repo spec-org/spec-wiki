@@ -45,13 +45,13 @@ based architectures via non-Abelian symmetries”, *arXiv preprint*
 (2023); [arXiv:2309.16724](https://arxiv.org/abs/2309.16724)
 
 198\) Long H. Nguyen and Sotiris S. Xantheas, “Many-Body Expansion of the MP2 Correlation Contribution to the Binding Energies of Water Clusters: A Localized Excitation Analysis ”, *Journal of Chemical Theory and Computation*
-**22**, (2026);
+**22** (19), pp. 9888–9900 (2026);
 [DOI:10.1021/acs.jctc.6c01287](https://dx.doi.org/10.1021/acs.jctc.6c01287)
 
 197\) M. Wang, M. Wen, P. Pokhilko, C. N. Yeh, M. A. Morales, D. Zgid,
 “Self-consistent vertex corrected *GW* with static and dynamic screening
 using tensor hypercontraction: assessment of molecular charged
-excitations” *The Journal of Chemical Physics* **165** (8), pp. 084107
+excitations” *The Journal of Chemical Physics* **165** (8), 084107
 (2026); [DOI:10.1063/5.0341797](https://dx.doi.org/10.1063/5.0341797)
 
 196\) X.-F. Gao, D. Mejia-Rodriguez, W. Cao, X. Peng, Y. Jiang, N.
@@ -77,7 +77,7 @@ emulated FP64 arithmetic”, *Journal of Chemical Theory and Computation*
 193\) E. Monino, D. Drwal, P. Beran, M. Hapka, L. Veis, and K. Pernal,
 “Why Projection-Based DMRG-in-DFT Cannot Be Exact, Even with the Exact
 Exchange-Correlation Functional”, *The Journal of Chemical Physics*
-**164** (22), pp. 224114 (2026);
+**164** (22), 224114 (2026);
 [DOI:10.1063/5.0332802](https://dx.doi.org/10.1063/5.0332802)
 
 192\) M. P. Hoffman and S. S. Xantheas, “H<sub>2</sub>X100: A
@@ -112,7 +112,7 @@ Exchange-Correlation”, *Journal of Chemical Theory and Computation*
 Mejia-Rodriguez, A. Gomez, C. J. Mundy, A. M. Ritzmann, “Modeling the
 behavior of concentrated aqueous HNO<sub>3</sub> using machine learning
 interatomic potentials”, *The Journal of Chemical Physics* **164** (1),
-pp. 014504 (2026);
+ 014504 (2026);
 [DOI:10.1063/5.0303907](https://dx.doi.org/10.1063/5.0303907)
 
 187\) M. P. Hoffman and S. S. Xantheas, “Engineering the Formation of
