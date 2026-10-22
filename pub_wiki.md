@@ -44,7 +44,7 @@ massively parallel tensor network state algorithms on hybrid CPU-GPU
 based architectures via non-Abelian symmetries”, *arXiv preprint*
 (2023); [arXiv:2309.16724](https://arxiv.org/abs/2309.16724)
 
-198\) Long H. Nguyen and Sotiris S. Xantheas, “Many-Body Expansion of the MP2 Correlation Contribution to the Binding Energies of Water Clusters: A Localized Excitation Analysis ”, *Journal of Chemical Theory and Computation*
+198\) Long H. Nguyen and Sotiris S. Xantheas, “Many-Body Expansion of the MP2 Correlation Contribution to the Binding Energies of Water Clusters: A Localized Excitation Analysis ”, Letter to the Editor, *Journal of Chemical Theory and Computation*
 **22** (19), pp. 9888–9900 (2026);
 [DOI:10.1021/acs.jctc.6c01287](https://dx.doi.org/10.1021/acs.jctc.6c01287)
 
